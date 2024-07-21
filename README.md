@@ -34,5 +34,3 @@ All the files are uploaded to the repository. I encourage you to look at the cod
 - **find_the_centre:** Calls the functions to find the row and column midpoints.
 - **find_row_midpoint and find_column_midpoint:** Check the dimensions, fill the row/column with beepers, clear unnecessary beepers, and identify the midpoint.
 - **Helper Functions:** Includes functions like `fill_row`, `fill_column`, `clear_row`, `clear_column`, and utility functions like `turn_right` and `turn_around`.
-
-Feel free to explore the code and see how the project is implemented. If you have any questions or feedback, don't hesitate to reach out.
